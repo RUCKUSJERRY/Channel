@@ -6,7 +6,7 @@ the best way to coworking : 협업툴 제작 프로젝트
 - [목표](#목표)
 - [기능정리](#기능정리)
 - [기술스택](#기술스택)
-- [Api&Library List](#Api&Library List)
+- [Api&Library](#Api&Library)
 - [MyPart](#MyPart)
 - [Appendix](#Appendix)
 
@@ -23,7 +23,7 @@ the best way to coworking : 협업툴 제작 프로젝트
 ## 기술스택
 ![image](https://user-images.githubusercontent.com/73293024/121782417-4f660480-cbe4-11eb-939a-8ae55f8e9809.png)
 
-## Api&Library List
+## Api&Library
 - 반응형 웹 CSS 구현 : [부트스트랩](http://bootstrapk.com)
 - SNS 로그인 : [구글](https://console.cloud.google.com/) [네이버](https://developers.naver.com/main/)
 - 우편번호 검색 : [Postcodify 포스트코디파이](https://www.poesis.org/postcodify/)
