@@ -6,7 +6,9 @@ the best way to coworking : 협업툴 제작 프로젝트
 - [목표](#목표)
 - [기능정리](#기능정리)
 - [기술스택](#기술스택)
-- [Api/Library List](#Api/Library List)
+- [Api&Library List](#Api&Library List)
+- [MyPart](#MyPart)
+- [Appendix](#Appendix)
 
 <hr/>
 
@@ -21,7 +23,7 @@ the best way to coworking : 협업툴 제작 프로젝트
 ## 기술스택
 ![image](https://user-images.githubusercontent.com/73293024/121782417-4f660480-cbe4-11eb-939a-8ae55f8e9809.png)
 
-## Api/Library List
+## Api&Library List
 - 반응형 웹 CSS 구현 : [부트스트랩](http://bootstrapk.com)
 - SNS 로그인 : [구글](https://console.cloud.google.com/) [네이버](https://developers.naver.com/main/)
 - 우편번호 검색 : [Postcodify 포스트코디파이](https://www.poesis.org/postcodify/)
@@ -34,4 +36,15 @@ the best way to coworking : 협업툴 제작 프로젝트
 - 코로나 현황 : [공공데이터포털](https://data.go.kr/)
 - 그림판 : [Canvas API](https://developer.mozilla.org/ko/docs/Web/API/Canvas_API)
 - 번역 : [파파고](https://developers.naver.com/docs/papago/)
+
+## MyPart
+- 워크스페이스, 채팅채널, 메시지룸 CRUD (맴버 초대, 추방 기능)
+- 채팅기능 구현 (Websocket, summnernote)
+- 구글 차트 기능 구현
+- 캘린더 일정 CRUD + 풀캘린더 구현 + 다음 포스트코드를 이용한 지도 맵핑 (kakao)
+- CSS 구현 with 부트스트랩
+
+## Appendix
+- [개발표준안](https://www.notion.so/ruckusjerry/f3c5aba3345942ea8316c5c2a7af5efd)
+
 
