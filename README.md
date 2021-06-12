@@ -6,7 +6,7 @@ the best way to coworking : 협업툴 제작 프로젝트
 - [목표](#목표)
 - [기능정리](#기능정리)
 - [기술스택](#기술스택)
-- [Api/Library](#Api/Library)
+- [Api](#Api)
 - [MyPart](#MyPart)
 - [Appendix](#Appendix)
 
@@ -23,7 +23,7 @@ the best way to coworking : 협업툴 제작 프로젝트
 ## 기술스택
 ![image](https://user-images.githubusercontent.com/73293024/121782417-4f660480-cbe4-11eb-939a-8ae55f8e9809.png)
 
-## Api/Library
+## Api
 - 반응형 웹 CSS 구현 : [부트스트랩](http://bootstrapk.com)
 - SNS 로그인 : [구글](https://console.cloud.google.com/) [네이버](https://developers.naver.com/main/)
 - 우편번호 검색 : [Postcodify 포스트코디파이](https://www.poesis.org/postcodify/)
@@ -46,5 +46,8 @@ the best way to coworking : 협업툴 제작 프로젝트
 
 ## Appendix
 - [개발표준안](https://www.notion.so/ruckusjerry/f3c5aba3345942ea8316c5c2a7af5efd)
+- [기능정의서](https://www.notion.so/ruckusjerry/9d642a4f5a6a4bfcbf6828233dfddc5d)
+- [업무분해도](https://www.notion.so/ruckusjerry/931bdc8298ae4186816766430e21eebf)
+- [ERD](https://www.notion.so/ruckusjerry/ERD-23b94c10884a406b9706279d337da330)
 
 
